@@ -16,3 +16,6 @@ remote repository using push origin button
 
 how to save after adding some text in subliime
 ctrl+s windows
+
+we do not have to push one commit at the time 
+
