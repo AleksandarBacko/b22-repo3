@@ -2,4 +2,4 @@ we just published our local git repo to remote GitHub.com repostory
 Few thing happend:
 1.It automaticlly created new Remote repo
 2.made the connection with your local git repo
-3.Added all your commits to remote repo
+3.Added all your commits to remote repo...
