@@ -3,3 +3,12 @@ Few thing happend:
 1.It automaticlly created new Remote repo
 2.made the connection with your local git repo
 3.Added all your commits to remote repo...
+
+
+now our work will continue locally
+
+1.add a new file called note.txt
+2.commited the change to local repo
+3.we went this change to be reflected in 
+remote repository using push origin button
+4.Observe it has been added in your repository under github.com
